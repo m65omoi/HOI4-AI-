@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 核心功能
-图形化界面: 简洁易用，新手也能轻松上手。
+图形化界面: 简洁易用.
 <img width="2555" height="1497" alt="image" src="https://github.com/user-attachments/assets/7ea6949b-0b90-40a1-b9c0-f4bced71e3fe" />
 
 智能硬件检测: 自动识别你的显卡和内存，推荐最适合的模型并一键下载。
