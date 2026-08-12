@@ -38,7 +38,7 @@
 ## 🚀 开始使用
 下载并安装 Ollama（只需安装一次）。
 
-下载该工具：<https://github.com/your-username/your-repo/releases>
+[下载该工具](https://github.com/m65omoi/HOI4-AI-Translator/releases/tag/v1.0)
 
 解压本工具，双击运行 启动.bat。
 
