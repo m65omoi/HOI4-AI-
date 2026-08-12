@@ -11,7 +11,11 @@
 ---
 
 ## 🌟 核心功能
+图形化界面: 简洁易用，新手也能轻松上手。
+<img width="2555" height="1497" alt="image" src="https://github.com/user-attachments/assets/7ea6949b-0b90-40a1-b9c0-f4bced71e3fe" />
+
 智能硬件检测: 自动识别你的显卡和内存，推荐最适合的模型并一键下载。
+<img width="2546" height="1446" alt="image" src="https://github.com/user-attachments/assets/9acdba9b-8684-4880-a49a-544d44082dec" />
 
 完美兼容 Paradox 格式: 正确保留 §Y颜色代码§!、[GetVariable] 变量、\n 换行符。
 
@@ -23,11 +27,13 @@
 
 自动启动 Ollama: 无需手动配置，程序自动管理后台服务。
 
-图形化界面: 简洁易用，新手也能轻松上手。
-
 自动定位: 翻译完成自动打开文件夹，一键定位输出文件。
+
+
 ## 🌍 支持语言（11种互译）
 英语、简体中文、繁体中文、日语、韩语、俄语、德语、法语、西班牙语、葡萄牙语、波兰语
+<img width="650" height="325" alt="image" src="https://github.com/user-attachments/assets/077c170f-efac-4814-b60b-3008329750c2" />
+
 
 ## 🚀 开始使用
 下载并安装 Ollama（只需安装一次）。
