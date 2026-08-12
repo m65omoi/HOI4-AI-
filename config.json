@@ -1,0 +1,23 @@
+{
+  "ollama": {
+    "base_url": "http://localhost:11434",
+    "model": "deepseek-r1:7b",
+    "temperature": 0.3,
+    "num_ctx": 17920,
+    "num_predict": 4096,
+    "auto_tune_params": true
+  },
+  "translation": {
+    "source_lang": "english",
+    "target_lang": "simp_chinese",
+    "batch_size": 10,
+    "max_retries": 3,
+    "retry_delay": 2,
+    "context_window": 5
+  },
+  "paths": {
+    "output_dir": "C:/Users/PIG19/Downloads",
+    "terminology_file": "C:\\Users\\PIG19\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\hoi4_ai_translator\\./terminology.json",
+    "progress_file": "C:\\Users\\PIG19\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\hoi4_ai_translator\\./progress.json"
+  }
+}
