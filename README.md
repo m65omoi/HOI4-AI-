@@ -38,6 +38,8 @@
 ## 🚀 开始使用
 下载并安装 Ollama（只需安装一次）。
 
+下载该工具：<https://github.com/your-username/your-repo/releases>
+
 解压本工具，双击运行 启动.bat。
 
 首次启动会自动检测硬件，点击下载推荐模型。
